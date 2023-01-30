@@ -1,0 +1,3 @@
+﻿  GeometricProgressionCalculator.cpp
+C:\Users\GOAT\source\repos\GeometricProgressionCalculator\GeometricProgressionCalculator\GeometricProgressionCalculator.cpp(20,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  GeometricProgressionCalculator.vcxproj -> C:\Users\GOAT\source\repos\GeometricProgressionCalculator\x64\Debug\GeometricProgressionCalculator.exe
